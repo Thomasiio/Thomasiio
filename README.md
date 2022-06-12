@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thomasiio
 - 👀 I’m interested in python, gaming, and cybersecurity
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and Lua
 - 💞️ I’m looking to collaborate on anything that will enhance my skills and knowledge
 - 📫 How to reach me - right here on GitHub!
 
